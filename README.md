@@ -44,10 +44,3 @@ The trained model can classify natural scene images into their respective catego
 
 ├── Intel_Image_Classification.ipynb  
 ├── README.md  
-└── screenshots/
-
-## Future Improvements
-
-- Use Transfer Learning (ResNet, EfficientNet)
-- Improve accuracy through data augmentation
-- Deploy as a web application
